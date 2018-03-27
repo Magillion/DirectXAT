@@ -1,0 +1,7 @@
+﻿D:\MaxM\ATDirectX\ATDirectX\ATDirectX\Effects.fx(35,18-35): warning X3206: 'mul': implicit truncation of vector type
+D:\MaxM\ATDirectX\ATDirectX\ATDirectX\Effects.fx(35,2-35): warning X3206: implicit truncation of vector type
+D:\MaxM\ATDirectX\ATDirectX\ATDirectX\Effects.fx(50,1-36): warning X3206: implicit truncation of vector type
+D:\MaxM\ATDirectX\ATDirectX\ATDirectX\Effects.fx(51,1-78): warning X3206: implicit truncation of vector type
+D:\MaxM\ATDirectX\ATDirectX\ATDirectX\Effects.fx(26,16-23): error X4502: invalid vs_2_0 output semantic 'NORMAL'
+  
+  compilation failed; no code produced
